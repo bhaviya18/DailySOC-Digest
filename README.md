@@ -87,11 +87,13 @@ It is not intended for production use without proper security hardening and revi
 ## 👤 Author
 
 **Bhaviya Talwar**  
-Aspiring Cybersecurity & SOC Analyst
 
 ---
 
 ## ⭐ Acknowledgements
+- Windows Event Logging
+- Google Gemini API
+- Open-source Python ecosystem
 
 - Windows Event Logging
 - Google Gemini API
