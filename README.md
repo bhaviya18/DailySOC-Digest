@@ -95,9 +95,7 @@ It is not intended for production use without proper security hardening and revi
 - Google Gemini API
 - Open-source Python ecosystem
 
-- Windows Event Logging
-- Google Gemini API
-- Open-source Python ecosystem
+
 
 
 
