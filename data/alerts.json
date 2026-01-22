@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ALERT-001",
+    "source": "Firewall",
+    "severity": "high",
+    "description": "Multiple failed login attempts detected",
+    "timestamp": "2026-01-22T08:10:00Z"
+  },
+  {
+    "id": "ALERT-002",
+    "source": "Endpoint",
+    "severity": "medium",
+    "description": "Suspicious PowerShell execution",
+    "timestamp": "2026-01-22T09:05:00Z"
+  },
+  {
+    "id": "ALERT-003",
+    "source": "Firewall",
+    "severity": "high",
+    "description": "Multiple failed login attempts detected",
+    "timestamp": "2026-01-22T08:12:00Z"
+  }
+]
